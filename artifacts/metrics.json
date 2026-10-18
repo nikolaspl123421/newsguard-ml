@@ -1,0 +1,20 @@
+{
+  "total_after_deduplication": 39103,
+  "train_rows": 31282,
+  "test_rows": 7821,
+  "accuracy": 0.9822273366577164,
+  "precision_true": 0.9767441860465116,
+  "recall_true": 0.9907997169143666,
+  "f1_true": 0.9837217472771987,
+  "roc_auc": 0.9981225094832765,
+  "confusion_matrix": [
+    [
+      3482,
+      100
+    ],
+    [
+      39,
+      4200
+    ]
+  ]
+}

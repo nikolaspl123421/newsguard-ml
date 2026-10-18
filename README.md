@@ -81,3 +81,19 @@ Python, pandas, NumPy, scikit-learn, Streamlit, matplotlib, joblib, pytest.
 
 ### Batch CSV Analysis
 ![Batch processing](screenshots/04-batch-csv.png)
+
+## Dataset attribution
+
+The project uses a dataset consistent with the
+ISOT Fake News Dataset, developed at the
+University of Victoria.
+
+The original download source has not been
+independently confirmed.
+
+Dataset reference:
+https://www.uvic.ca/engineering/ece/isot/datasets/fake-news/
+
+The training dataset is not included in this
+repository. The model is intended for educational
+research and demonstration, not automated fact-checking.
