@@ -67,3 +67,17 @@ Add actual screenshots captured locally from the application before publishing; 
 ## Tech stack
 
 Python, pandas, NumPy, scikit-learn, Streamlit, matplotlib, joblib, pytest.
+
+## Screenshots
+
+### Application Interface
+![NewsGuard ML Studio](screenshots/01-home.png)
+
+### Explainable AI
+![Prediction explanation](screenshots/02-explainability.png)
+
+### Model Performance Dashboard
+![Model evaluation](screenshots/03-dashboard.png)
+
+### Batch CSV Analysis
+![Batch processing](screenshots/04-batch-csv.png)
