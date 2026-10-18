@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+.DS_Store
+
+data/*.csv
+artifacts/
+results/
+*.joblib
+*.pkl
